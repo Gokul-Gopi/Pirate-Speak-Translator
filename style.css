@@ -39,8 +39,8 @@ section{
     font-size: 20px;
     font-weight: 200;
     opacity: 0.8;
-    padding: 10px;
-    border: 1px solid black;
+    padding: 15px;
+    border-radius: 10px;
     /* box-shadow: 15px 9px 22px 5px black; */
 }
 
@@ -86,6 +86,7 @@ section{
 textarea{
     resize: none;
 }
+
 textarea:focus{
     outline: none;
 }
